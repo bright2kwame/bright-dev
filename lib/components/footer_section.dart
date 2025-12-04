@@ -15,7 +15,7 @@ class FooterSection extends StatelessWidget {
       onPressed: () {
         String url = "";
         if (label.contains("LinkedIn")) {
-          url = AppStrings.githubPageLink;
+          url = AppStrings.linkedInUrl;
         }
         if (label.contains("GitHub")) {
           url = AppStrings.githubPageLink;
