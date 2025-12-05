@@ -1,16 +1,12 @@
-# bright_portfolio
+# Bright's Portfolio
 
-A new Flutter project.
+Created a personal page using flutter web and serve using a simple python script
 
-## Getting Started
+## Something Brief
 
-This project is a starting point for a Flutter application.
+I intent to keep this updated and showcasing all the cool stuff that I will do.
 
-A few resources to get you started if this is your first Flutter project:
+- [My YouTube Page](https://www.youtube.com/channel/UCyRjetgP9dxjYBfuhKtwCRQ/)
+- [My TikTok Page](https://www.tiktok.com/@investment_nerds)
+- [Open Source Stuff](https://pub.dev/publishers/brightahedor.me/packages)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
